@@ -1,0 +1,48 @@
+*{
+    font-family: 'Rubik', sans-serif;
+    /* border: solid; */
+}
+
+.Header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 10px;
+    margin-top: 15px;
+    margin-left: 0px;
+}
+
+.Purchase_Button{
+    background-color: #0087EE;
+    padding: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 15px;
+    border-radius: 5px;
+}
+
+.Purchase_Button a:link{
+    color: white;
+    text-decoration: none;
+}
+
+.Branding{
+    margin-left: 30px;
+}
+
+.nav{
+    word-spacing: 25px;
+    font-size: 20px;
+    margin-left: -30px
+}
+
+.nav a:link{
+    color: rgb(170, 170, 170)  ;
+    text-decoration: none;
+}
+
+.banner h1{
+font-size: 0px;
+text-align: center;
+margin-top: 200px;
+}
